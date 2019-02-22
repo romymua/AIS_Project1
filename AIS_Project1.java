@@ -2,6 +2,6 @@ public class AIS_Project1
 {
 	public static void main(String[] args)
 	{
-		System.out.println("Hello AIS - Welcome! This is from local machine!");
+		System.out.println("Hello AIS - Welcome! This is Version 3!");
 	}
 }
